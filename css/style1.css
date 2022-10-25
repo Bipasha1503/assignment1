@@ -1,0 +1,41 @@
+.headingImage{
+    background:transparent url("../images/headingImage.png") no-repeat right top !important ;
+   
+    position: relative;
+}
+
+.quickSearchItems .filterItem{
+    border: solid 1px #ccc;
+    display: inline-block;
+    width:33%;
+    height: 200px;
+    padding: 10px;
+}
+
+
+/*.quickSearchItems .filterItem div{
+    display: inline-block;
+}
+
+.information {
+    padding: 10px;
+}
+*/
+div{
+    box-sizing: border-box !important;
+}
+
+.selectLocation{
+    position: absolute;
+    top:30%;
+    left:30%;
+    font-size: 36px;
+}
+
+.selectLocation  h1{
+    color: #fff;
+}
+
+/*.item img{
+    max-width: 400px;
+}*/
